@@ -3,4 +3,4 @@
 
 I primi grafici non vengono visualizzati nei file .html e .pdf ma sono visibili correttamente su Colab.
 
-[Direct link for Colab](https://colab.research.google.com/github/alexgiorgetti/DataIntensive_Car_Prediction_Project/blob/main/Progetto_Programmazione_Data_Intensive.ipynb)
+[Direct link for Colab](https://colab.research.google.com/github/ye1047/DataIntensive_Car_Prediction_Project/blob/main/Progetto_Programmazione_Data_Intensive.ipynb)
